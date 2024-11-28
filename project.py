@@ -2,8 +2,6 @@
 
 # checking
 
-# Lambert, tell me if this is how I update code to Git
-
 import sqlite3
 import pandas as pd
 import streamlit as st
